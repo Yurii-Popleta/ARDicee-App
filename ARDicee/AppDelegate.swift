@@ -1,9 +1,3 @@
-//
-//  AppDelegate.swift
-//  ARDicee
-//
-//  Created by Admin on 15/09/2022.
-//
 
 import UIKit
 
